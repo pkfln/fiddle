@@ -27,7 +27,7 @@
     "react-dom": "^16.8.2",
     "react-google-recaptcha": "^1.0.5",
     "react-monaco-editor": "^0.24.0",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^6.0.0",
     "react-select": "^3.0.0",
     "react-split-pane": "^0.1.85",
     "sanitize-html-react": "^1.13.0",
